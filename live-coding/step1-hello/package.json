@@ -1,0 +1,12 @@
+{
+  "name": "notes-app-step1",
+  "version": "1.0.0",
+  "description": "Step 1 — Hello World with Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
