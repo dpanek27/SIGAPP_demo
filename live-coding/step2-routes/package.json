@@ -1,0 +1,12 @@
+{
+  "name": "notes-app-step2",
+  "version": "1.0.0",
+  "description": "Step 2 — In-memory CRUD routes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
